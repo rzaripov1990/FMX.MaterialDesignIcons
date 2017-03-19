@@ -3,10 +3,10 @@
 
 ## ANDROID
 * Include `FMX.FontGlyphs.pas` and `FMX.FontGlyphs.Android.pas` to project
-* Deploy font to project (RemotePath = assets\internal\)
+* Deploy font to project `RemotePath = assets\internal\`
 
 ## IOS
-* Deploy font to project (RemotePath = .\)
+* Deploy font to project `RemotePath = .\`
 * Create or Edit file `info.plist.TemplateiOS.xml`
 ```
 <?xml version="1.0" encoding="UTF-8"?>
